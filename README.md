@@ -11,6 +11,11 @@
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fox90&theme=swift)](https://github.com/GiancarloPaoletti/README.md)
 
 <!--START_SECTION:waka-->
+
+```text
+Python   7 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
