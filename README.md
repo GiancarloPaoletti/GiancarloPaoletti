@@ -10,6 +10,9 @@
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fox90&theme=swift)](https://github.com/GiancarloPaoletti/README.md)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **GiancarloPaoletti/GiancarloPaoletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
