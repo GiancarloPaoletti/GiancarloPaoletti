@@ -10,20 +10,11 @@
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fox90&theme=swift)](https://github.com/GiancarloPaoletti/README.md)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${GiancarloPaoletti}.${GiancarloPaoletti})
-
-<!--START_SECTION:waka-->
-
-```text
-Python   7 mins          █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
 
 
 ### Hi there, I'm <a href="https://my.site.com" target="_blank">AAAAA</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Facebool Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/aaaa)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://facebook.com/aaaa)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/aaaa)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://aaaa.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/aaaa)
@@ -31,13 +22,10 @@ Python   7 mins          ██████████████████�
 
 
 
-
-
-
 <h1 align="center">Hi 👋, I'm name</h1>
 <h3 align="center">A passionate ajeje brazorf</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giancarlopaoletti&label=Profile%20views&color=0e75b6&style=flat" alt="giancarlopaoletti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giancarlopaoletti&label=Profile%20views&color=f05237&style=flat" alt="giancarlopaoletti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giancarlopaoletti" alt="giancarlopaoletti" /></a> </p>
 
