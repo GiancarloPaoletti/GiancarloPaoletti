@@ -20,10 +20,10 @@ I am interested in analyzing human bodies and their behavior without supervision
 <br/>
 
 <a href="https://github.com/GiancarloPaoletti/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GiancarloPaoletti&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=swift" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GiancarloPaoletti&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=swift" height="150" />
 </a>
 <a href="https://github.com/GiancarloPaoletti/README.md">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiancarloPaoletti&layout=compact&langs_count=10&theme=swift" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiancarloPaoletti&layout=compact&langs_count=10&theme=swift" height="150" />
 </a>
   
 <br/><br/>
