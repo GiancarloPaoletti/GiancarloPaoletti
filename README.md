@@ -28,7 +28,7 @@ I am interested in analyzing human bodies and their behavior without supervision
   
 <br/><br/>
 
-📊 **This Week I Spent My Time On:**
+📊 **This Month I Spent My Time On:**
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fox90&theme=swift)](https://github.com/GiancarloPaoletti/README.md)
 
