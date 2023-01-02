@@ -11,7 +11,7 @@
 [![GMail Badge](https://img.shields.io/badge/-Email-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:giancarlo.paoletti@iit.it)
 
 <br/>
-Research Fellow and Ph.D. student at the Italian Institute of Technology (IIT) as part of the Pattern Analysis and Computer Vision (PAVIS) research line. :suspect:
+I am a Research Fellow and Ph.D. student at the Italian Institute of Technology (IIT) as part of the Pattern Analysis and Computer Vision (PAVIS) research line. :suspect:
 
 Before joining PAVIS, I received both BS and MS degrees in Psychology at the University of Urbino (in 2016) and the University of Turin (in 2019). :rage1:
 
