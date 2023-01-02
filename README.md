@@ -1,5 +1,5 @@
 <h1 align="center">Hello world! I'm <a href="https://giancarlopaoletti.github.io/" target="_blank" rel="noopener noreferrer">Giancarlo Paoletti</a></h1>
-<h3 align="center">Ph.D. student at PAVIS, IIT &nbsp; <img src="https://komarev.com/ghpvc/?username=giancarlopaoletti&label=Profile%20views&color=f05237&style=flat" alt="giancarlopaoletti" /></h3>
+<h3 align="center">Research Fellow and Ph.D. student at PAVIS, IIT &nbsp; <img src="https://komarev.com/ghpvc/?username=giancarlopaoletti&label=Profile%20views&color=f05237&style=flat" alt="giancarlopaoletti" /></h3>
 
 <br/><br/>
 
@@ -11,7 +11,7 @@
 [![GMail Badge](https://img.shields.io/badge/-Email-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:giancarlo.paoletti@iit.it)
 
 <br/>
-Ph.D. student at the Italian Institute of Technology (IIT) as part of the Pattern Analysis and Computer Vision (PAVIS) research line. :suspect:
+Research Fellow and Ph.D. student at the Italian Institute of Technology (IIT) as part of the Pattern Analysis and Computer Vision (PAVIS) research line. :suspect:
 
 Before joining PAVIS, I received both BS and MS degrees in Psychology at the University of Urbino (in 2016) and the University of Turin (in 2019). :rage1:
 
