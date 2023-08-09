@@ -8,7 +8,7 @@
 [![GScholar Badge](https://img.shields.io/badge/GScholar-%2312100E.svg?&style=for&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=X8FU5xMAAAAJ)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_Fox90_)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=1348413018)
-[![GMail Badge](https://img.shields.io/badge/-Email-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:giancarlo.paoletti@iit.it)
+[![GMail Badge](https://img.shields.io/badge/-Email-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:giancarlo.paoletti.ext@leonardo.com)
 
 <br/>
 I am an AI Research Fellow at Leonardo Labs based in Genova, Italy. :suspect:
