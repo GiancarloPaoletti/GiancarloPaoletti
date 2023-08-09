@@ -1,5 +1,5 @@
 <h1 align="center">Hello world! I'm <a href="https://giancarlopaoletti.github.io/" target="_blank" rel="noopener noreferrer">Giancarlo Paoletti</a></h1>
-<h3 align="center">Research Fellow and Ph.D. student at PAVIS, IIT &nbsp; <img src="https://komarev.com/ghpvc/?username=giancarlopaoletti&label=Profile%20views&color=f05237&style=flat" alt="giancarlopaoletti" /></h3>
+<h3 align="center">AI Research Fellow at Leonardo Labs &nbsp; <img src="https://komarev.com/ghpvc/?username=giancarlopaoletti&label=Profile%20views&color=f05237&style=flat" alt="giancarlopaoletti" /></h3>
 
 <br/><br/>
 
@@ -11,11 +11,15 @@
 [![GMail Badge](https://img.shields.io/badge/-Email-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:giancarlo.paoletti@iit.it)
 
 <br/>
-I am a Research Fellow and Ph.D. student at the Italian Institute of Technology (IIT) as part of the Pattern Analysis and Computer Vision (PAVIS) research line. :suspect:
+I am an AI Research Fellow at Leonardo Labs based in Genova, Italy. :suspect:
 
-Before joining PAVIS, I received both BS and MS degrees in Psychology at the University of Urbino (in 2016) and the University of Turin (in 2019). :rage1:
+Before joining Leonardo Labs, I obtained my PhD in Computer Vision at PAVIS IIT and worked as a Research Fellow at the same place.
+<br/>
+Prior studies involved BS and MS degrees in Psychology at the University of Urbino (in 2016) and the University of Turin (in 2019). :rage1:
 
-I am interested in analyzing human bodies and their behavior without supervision while keeping important and relevant aspects like privacy. :godmode:
+I am interested in analyzing human bodies and their behaviour without supervision while keeping important and relevant aspects like privacy.
+<br/>
+Currently, I am focusing on Large-Scale Computing, developing Deep Learning algorithms for HPC usage. :godmode:
 
 <br/>
 
